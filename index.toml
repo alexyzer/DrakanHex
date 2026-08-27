@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "e9ef85f97a6a09c000043a794352fad1cd8ef35d39c64a3961d48b3eae9ead13"
+hash = "b87f4688bd58b23c6c59ee6c4517b0b05164ef2b788ae3c779f64fc351a5938c"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "a2e4aa2f4201f682d657c96978c8c560fc521a5353b2c16a2fc444546e927937"
+hash = "c4f0820614055c0be9800e3ec5474378bc595064c2c7439c17286f2b67e3631f"
 metafile = true
 
 [[files]]

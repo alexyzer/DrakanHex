@@ -10,3 +10,8 @@ url = "https://cdn.modrinth.com/data/JaNmzvA8/versions/prD71pT4/chunksfadein-neo
 [update.modrinth]
 mod-id = "JaNmzvA8"
 version = "prD71pT4"
+
+[option]
+optional = true
+description = "Плавное появление чанков."
+default = true

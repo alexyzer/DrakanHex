@@ -10,3 +10,8 @@ url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0
 [update.modrinth]
 mod-id = "ETlrkaYF"
 version = "epixUL1j"
+
+[option]
+optional = true
+description = "Безрамочный режим."
+default = true
