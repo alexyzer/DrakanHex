@@ -1,0 +1,13 @@
+{
+    "+agents": [
+        {
+            "MMC-displayname": "unsup-1.2.0-pre4",
+            "MMC-filename": "7efec858-829b-4bf2-ba0c-740f6992e271.jar",
+            "MMC-hint": "local",
+            "name": "custom.agents:7efec858-829b-4bf2-ba0c-740f6992e271:1"
+        }
+    ],
+    "formatVersion": 1,
+    "name": "unsup-1.2.0-pre4 (agent)",
+    "uid": "custom.agent.7efec858-829b-4bf2-ba0c-740f6992e271"
+}

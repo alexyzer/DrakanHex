@@ -1,0 +1,42 @@
+{
+    "components": [
+        {
+            "cachedName": "LWJGL 3",
+            "cachedVersion": "3.3.3",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "org.lwjgl3",
+            "version": "3.3.3"
+        },
+        {
+            "cachedName": "Minecraft",
+            "cachedRequires": [
+                {
+                    "suggests": "3.3.3",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "cachedVersion": "1.21.1",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "1.21.1"
+        },
+        {
+            "cachedName": "NeoForge",
+            "cachedRequires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "cachedVersion": "21.1.248",
+            "uid": "net.neoforged",
+            "version": "21.1.248"
+        },
+        {
+            "cachedName": "unsup-1.2.0-pre4 (agent)",
+            "uid": "custom.agent.7efec858-829b-4bf2-ba0c-740f6992e271"
+        }
+    ],
+    "formatVersion": 1
+}
