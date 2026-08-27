@@ -1,0 +1,12 @@
+filename = "quick_access-1.0.0-neoforge+1.21.1.jar"
+name = "Quick Access"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "198d14a02a18618e8b590fe30a60d123e7f3be0d"
+url = "https://cdn.modrinth.com/data/txuT2FxB/versions/xwVHK5JF/quick_access-1.0.0-neoforge%2B1.21.1.jar"
+
+[update.modrinth]
+mod-id = "txuT2FxB"
+version = "xwVHK5JF"

@@ -1,2 +1,168 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "dbd5a3feace11090f673505fc2674e04c214e6e1c34aabfc1e49127ce3e535b3"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "109e64bd7820513e321fc7e0cd807084c288724fc8fec7bd1fa6828089b4727c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "7d5b1fc9e2c510da951294d57947d7e1cf4e7cf53f286215f5eed21e202a5a55"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e74df5219fa3c6ff1f167c57822d6274732ed9ca90e2c29e7b2768d641706b89"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a362c2aad18ae069804b1b599959adf199b96c803edbc8d13a878b3decaadd07"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "0f7ef948192c41fd7f18336598849763a6c3320059378825546e889d8d619eb5"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "aa929cc6363a9f8227c047b37567839c7f03ce189bfc7ad0f6a3bea7e9e59d80"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "e9ef85f97a6a09c000043a794352fad1cd8ef35d39c64a3961d48b3eae9ead13"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "365d5a2c4b59ce2ab0c54e696a9ab061113c28bad2ccbc5f23d8c8fb8b6b3397"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a39829718b4b5bcf726b00d08f08012a9f4728b1e3ef5dbbe43f34f218a84234"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "702226bb5c964fc55334543fb9ab1bd30fe319d95b86479c583ea47f2334d273"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "a2e4aa2f4201f682d657c96978c8c560fc521a5353b2c16a2fc444546e927937"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "2de5690d7307b0a360e9ebed83ecb7f653d6643168360a625b253d131b3cdbf0"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f6e4bcf78cda37abe1076e6e19d77e0ebe84b3a7993fa2408e3ba8db0b2e70db"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4bbb2d7ed59281c62ca8c6be25928ef0b04bfde830dccfca608c64d45b67a57f"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "08b127f96589596a66a34301220c8f27dada12fa0ef730dbacd1bd1bbf7dae36"
+metafile = true
+
+[[files]]
+file = "mods/gtceu-1.21.1-8.0.0-SNAPSHOT+20260803-132217-8201bf3.jar"
+hash = "5ae5e86b554ef60e72d1a52035658bd5ac33e7d1518bf787ee7846ba6c19822e"
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "11faa2ff799f0d9468d50971d891f72d68cb4bd51f1243a3b4df01d7930a601f"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel.jar"
+hash = "7fe5380b0e70f16df77be3f5c459f11068cb70c442a9f873054cd63459dbbc2b"
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b67a3ec3d530be0465d1164a9505fa4eff2c32b7a7a0665431181437e5fbaefb"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "107fed4855495c558e190d29731fe61be9a6508c48d9cb5eb21562be27efd0c9"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "958b3d3ec3b56fa7e36495c6788de4ea95d11a8f0d4c216c31af7fac1f0271da"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "61a84c62d3da196b6c148c77b0937165521aa89f8cb21fbade45097c2df69b63"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "a35355ba3e721979f06f3ad8373af9ac92035522eb155fb5a52adaeb56c65a8f"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8cb7b4c61aaf6e888ca4507c8b1691e70f6e64bbd9e9d75f163a2facdaa7bc9f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "f629b08affaa6d788c94d35b78a6866e9c947aec94350049b3c96135459168f8"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "485c554578d74c2470e4fc776bd6f4052274fce58f3bc03149202cfa28678dee"
+metafile = true
+
+[[files]]
+file = "mods/parcool.pw.toml"
+hash = "c28b13f996040e2a38d3f3f4d7d89644c6d6f6dda1b80f73938ef8b82d6b5a59"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "5db954f027234d345886ff2d3aa6a1ede860a40e8de1cab4e2466c376419c986"
+metafile = true
+
+[[files]]
+file = "mods/paucal-0.7.1+1.21.1-neoforge.jar"
+hash = "258b0a7d1c423026f01b1534d79e8ca147656b1e818191a6b133fef52bca692a"
+
+[[files]]
+file = "mods/quick-access.pw.toml"
+hash = "d1b933469659b984e98aa3f77e3f847e531daefcb6693f79a1d63c0bda5f24c6"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "0c8d8dc0601cebc3456d893809b13f06e1aab8c6b377eb960e8894244c26d5a4"
+metafile = true
+
+[[files]]
+file = "mods/quick-skin.pw.toml"
+hash = "164c6305fc7ecdfae2542df1842ebe121f91268c04b6abc8540c10e377ee3ecb"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "60a3bfe6d94200f4fc0964a542a16d468ff7d1c3f5fb2b8894a1661456d9171c"
+metafile = true

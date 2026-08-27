@@ -1,0 +1,12 @@
+filename = "ae2wtlib-19.5.1.jar"
+name = "Applied Energistics 2 Wireless Terminals"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1bee01393b15f1eb0f46d58862ef99234e1d337"
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/CxSEpEnO/ae2wtlib-19.5.1.jar"
+
+[update.modrinth]
+mod-id = "pNabrMMw"
+version = "CxSEpEnO"

@@ -1,0 +1,12 @@
+filename = "chloride-NEOFORGE-mc1.21.1-v1.8.1.jar"
+name = "(Sodium) Chloride"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "50454011525e2862678b15d94484fd32a5a54dfb"
+url = "https://cdn.modrinth.com/data/yD9qW65f/versions/IgWRdE2d/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar"
+
+[update.modrinth]
+mod-id = "yD9qW65f"
+version = "IgWRdE2d"
