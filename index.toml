@@ -51,6 +51,11 @@ hash = "a39829718b4b5bcf726b00d08f08012a9f4728b1e3ef5dbbe43f34f218a84234"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "702226bb5c964fc55334543fb9ab1bd30fe319d95b86479c583ea47f2334d273"
 metafile = true
@@ -114,6 +119,16 @@ hash = "61a84c62d3da196b6c148c77b0937165521aa89f8cb21fbade45097c2df69b63"
 metafile = true
 
 [[files]]
+file = "mods/key-flow.pw.toml"
+hash = "78be42b65601f9f152b9ebdbb80606cd3b9030ed4d24f1d07327d3ca599c62d4"
+metafile = true
+
+[[files]]
+file = "mods/keybindspurger.pw.toml"
+hash = "deb411274d906a168676c9d5e382171a7d285ebd65471fd4bf7a768171f6a2e0"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "a35355ba3e721979f06f3ad8373af9ac92035522eb155fb5a52adaeb56c65a8f"
 metafile = true
@@ -126,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "f629b08affaa6d788c94d35b78a6866e9c947aec94350049b3c96135459168f8"
+metafile = true
+
+[[files]]
+file = "mods/omni-wheel.pw.toml"
+hash = "e54180c3fc730b6bc60f1ef3a697aa32db9b52f6c7d7fce096287b10e8eb9406"
 metafile = true
 
 [[files]]
@@ -160,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/quick-skin.pw.toml"
 hash = "164c6305fc7ecdfae2542df1842ebe121f91268c04b6abc8540c10e377ee3ecb"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]

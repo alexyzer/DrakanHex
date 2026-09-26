@@ -1,0 +1,18 @@
+name = "Key Flow"
+filename = "keyflow-neoforge-1.21.1-1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/biV4VxJc/versions/mSDFnY0R/keyflow-neoforge-1.21.1-1.6.jar"
+hash-format = "sha512"
+hash = "c86da31a5ed77e9e8ac687caea8bfc255d253aab8abe6994d5197aa37b9d7111a0f3603a1ccea6b1c8cb72ab5def8463f719f78a444c3aeaa6138e5928638e21"
+
+[update]
+[update.modrinth]
+mod-id = "biV4VxJc"
+version = "mSDFnY0R"
+
+[option]
+optional = true
+description = "Круговое меню кнопок и удобный поиск любой кнопки."
+default = false
